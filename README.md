@@ -15,13 +15,14 @@
 <br><br>
 
 <p align="justify">
-Welcome to the Donation Collecting Website for MAB CORP, a non-profit organization dedicated to improving the lives of people in need. Our website is designed to make it easy for you to donate and support our cause, whether you're a regular donor or a first-time supporter.
-The home page of our website provides an overview of our foundation and our mission, along with a prominent call-to-action button inviting users to make a donation. We have also included information about our recent activities and success stories to give you an idea of how your donation can make a difference.
+At PhilanTech, we are on a mission to revolutionize the way charitable donations are made,tracked, and reported. Founded on the principles of transparency, efficiency, and social impact, our company is dedicated to harnessing cutting-edge technologies to drive positive change in the philanthropic sector.
+Vision: Our vision is to create a world where every donation has a measurable impact, and every donor can witness the tangible outcomes of their generosity. We envision a future where charitable giving is transparent, engaging, and accessible to all, empowering individuals, and organizations to make a meaningful difference in the lives of others.
+Mission: Our mission is to empower donors and charitable organizations with innovative tools and platforms that enhance transparency, efficiency, and engagement in the donation process. By leveraging technologies such as blockchain, artificial intelligence, and
+gamification, we aim to streamline the donation experience, foster trust, and accountability,and maximize the social impact of every contribution.
 <br><br>
-We have made it easy for you to donate to our foundation through our secure online donation form, which accepts donations of any amount. You can choose to make a one-time donation or set up a recurring donation, and you can also choose to donate to a specific cause or program within our foundation.
-To make the donation process even more convenient, we have also integrated a variety of payment options, including credit cards, debit cards, and PayPal. All of your personal and financial information is kept secure and confidential, and we never share or sell your information to any third-party organizations. 
+We provide wide donation making options, from one-time donation or recurring donations to donating to charities, NPO’s, campaigns etc of your choice made available on our website which align with your personal values using various modes of payments while maintaining the information of parties involved confidential and secure. 
 <br><br>
-In addition to accepting donations, our website also provides information about our foundation and the work we do. You can read about our different programs, services, and initiatives, and learn about the impact we have made in our community. You can also sign up for our newsletter to stay up-to-date with our latest news and events.
+Additionally, our website also provides reports of how your donation has made an impact . You can read about our different programs, services, and initiatives, and learn about the impact we have made in our community. We offer newsletter which you’ll need to sign up for, it provides latest updates on various programs, campaigns, initiatives etc., we are involved in.
 We have designed our website to be user-friendly and accessible to everyone, regardless of their level of technical expertise. Our website is optimized for desktop and mobile devices, ensuring that you can access our platform from anywhere at any time.
 <br><br>
 We believe that every donation, no matter how big or small, can make a difference in the lives of people in need. Thank you for considering donating to our foundation and supporting our cause. Your generosity is greatly appreciated and will help us continue to make a positive impact in our community.
@@ -36,54 +37,31 @@ We believe that every donation, no matter how big or small, can make a differenc
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
 
-- <b>Donation portal:</b><br> The website would have a secure and easy-to-use donation portal where donors can make one-time or recurring donations online.
+- <b>Donation portal:</b><br> The website will be using blockchain technology to ensure secure and a transparent portal for donation.
 
-- <b>Payment gateway:</b><br> The website would have a payment gateway that accepts various payment methods, including credit/debit cards, PayPal, and bank transfers.
+- <b>Payment gateways:</b><br> The portal will provide multiple payment gateways to select from such credit cards, debit cards, bank transfers.
 
-- <b>Donor management:</b><br> The website would have a donor management system that allows the welfare foundation to keep track of donor information, donation history, and communication preferences.
+- <b>Donor management:</b><br> The website would store latest information of donors including their donation history, and communication preferences using various donor management tools that could be used by charities
 
-- <b>Fundraising campaigns:</b><br> The website would feature fundraising campaigns for specific projects or causes, with clear goals and progress indicators to encourage donors to contribute.
+- <b>Fundraising campaigns:</b><br> The website will feature various fundraising campaigns including their clear goals and progress.
 
-- <b>Tax receipts:</b><br> The website would generate tax receipts for donors automatically and send them via email or mail.
+- <b>Payment receipts:</b><br> The website will provide receipts to donors when making a donation or payment.
 
-- <b>Social sharing:</b><br> The website would have social sharing buttons that allow donors to share their donation on social media, increasing awareness and encouraging others to give.
+- <b>Gamification:</b><br> The website will provide social sharing options to enable donors to share about their experiences and donations on social media, increasing awareness and to encourage others to be a part of the initiative.
 
-- <b>Volunteer opportunities:</b><br> The website would provide information on volunteer opportunities, including how to sign up and what kind of help is needed.
+- <b>Volunteering opportunities:</b><br> The website would provide information on volunteer opportunities, including how to sign up and what kind of help is needed.
 
-- News and updates:</b><br> The website would have a section for news and updates about the welfare foundation's activities and impact, helping donors stay informed and engaged.
+- Newsletter:</b><br> The website will also provide latest news and updates on various charitable activities and the impact, which will help donors remain engaged. 
 
-Overall, the above mentioned repository could have a range of features designed to make donating easy, secure, and meaningful, while also providing information and opportunities for volunteers to get involved in the welfare foundation's work.
-
+Overall, this initiative will have wide range of features designed to make donating transparent and secure. By seamlessly
+connecting the act of giving with the vast networks of social media, we amplify the visibility of charitable causes, encouraging a broader community to participate in the spirit of giving. This approach transforms passive donors into active advocates, leveraging the power of
+social networks to create a ripple effect of support for charitable initiatives. Moreover, the gamification elements, such as badges and leaderboards, add an element of fun and competition to the donation process, incentivizing continued engagement and fostering a
+sense of accomplishment among donors.
 <br><br>
 <!-- ................................................................................................................................. -->
 
-
-
-### Demo
-<p align="justify">
-  The Demo of this working project can be found on <br>
-  <a href="https://rebrand.ly/DonationWebsite_MABCORP">rebrand.ly/DonationWebsite_MABCORP</a>
-</p>
-
-
 <br><br>
 <!-- ................................................................................................................................. -->
-
-
-
-### Video
-<p align="justify">
-You can exclusively watch the video on this project from the making to deploying on my     channel with the link given below<br>
-
-  [Video Link](# ) <br>
-
-  If you like my video then do Like the Video and share it with others.
-</p>
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
 
 
 ### Website Interface <br><br>
@@ -100,10 +78,12 @@ You can exclusively watch the video on this project from the making to deploying
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+- Blockchain
+- React.js
+- Node.js
+- MangoDB
+- 2FA
+- Docker/Jenkins
 
 
 <br><br>
@@ -137,18 +117,9 @@ Later on the link was customized using the well-known URL shortener and customiz
 
 ### Developer
 
-Muhammad Abdullah Butt <br>
-abdullahbutt12292210@gmail.com <br>
-> [Instagram](https://www.instagram.com/abdullah.butt.22/)<br>
-> [FaceBook](https://www.facebook.com/profile.php?id=100076291614529)<br>
-> [YouTube](https://www.youtube.com/channel/UCnuOFQyMywg-KuoN-lmav1Q)<br>
-> [Portfolio](https://rebrand.ly/MuhammadAbdullahButt_MABCORP)<br>
-> [Project Displayer]( https://rebrand.ly/ProjectDisplayer_MABCORP)
+Komal Balani <br>
+Komalbalani1996@gmail.com <br>
 <br><br>
 <!-- ................................................................................................................................. -->
-
-
-
-
 
 
